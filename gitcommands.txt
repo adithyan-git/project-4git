@@ -1,16 +1,15 @@
 <<<GIT COMMANDS>>>
 
 1.git --version                   >>checking git version
-2.git init
-3.git add file_name
-4.git status
-5.git add .
-6.git commit -m "initial commit"
-7.git log
-8.git remote
-9.git remote
-10.git remote add origin remote_link 
-11.git push origin master
+2.git init                        >>for initializing git
+3.git add file_name               >>adding files
+4.git status                      >>checking files are added or tracked
+5.git add .                       >>adding all files
+6.git commit -m "initial commit"  >>permenent files storing
+7.git log                         >>for checking who changed/getting id
+8.git remote                      >>used for checking connected/connecting remote repo with local repo
+10.git remote add origin remote_link  >>connection
+11.git push origin master         >>for pushing
 12.git pull origin master
 13.git branch
 14.git branch branch_name
