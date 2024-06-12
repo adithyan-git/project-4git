@@ -1,6 +1,6 @@
 <<<GIT COMMANDS>>>
 
-1.git --version
+1.git --version                   >>checking git version
 2.git init
 3.git add file_name
 4.git status
